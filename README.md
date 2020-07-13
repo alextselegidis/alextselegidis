@@ -19,7 +19,7 @@
   <a href="#collaborate">Collaborate</a>
 </p>
 
-![screenshot](screenshot.gif)
+![screenshot](https://raw.githubusercontent.com/alextselegidis/alextselegidis/master/screenshot.gif)
 
 ## About
 
